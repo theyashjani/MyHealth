@@ -1,0 +1,71 @@
+	
+			 				*- Web project report -*
+-------------
+Yash chitroda|
+-------------
+
+1.Mainpage
+2.Bmi
+3.Calorie calculator
+4.news
+5.Accomplishment
+6.Submit story
+7.terms&condition 
+8.My account
+9.Create account/login-[css+dark theme]
+10.OPT page
+11.Logged mainpage
+12.Doctor form
+13.About us page
+14.equipment page
+15.first aid 
+16.bp monitor
+17.oximeter
+18.antiseptic wipes 
+19.payment page(for shop)
+20.diet calculator
+21.forgot password page
+22.disclaimer page
+
+----------------------------------------------------------------------------------------------
+
+-------------
+Yash jani.   |
+-------------
+
+1.Work with us (team)
+2.Work with us (dev)
+3.Work with us dev(form)s
+4.Work with us (doctor)
+5.Privacy policy
+6.Login page[html]
+7.Create accountpage[html]
+8.Heart disease page
+9.Covid  disease page
+10.Brain disorder page
+11.Heart disease page
+12.Events
+13.Contact us
+14.Bookappointment
+15.Donation page 
+16.Glucometer page
+17.thermometer
+18.mask
+19.nurse page
+20.nurse form
+21.diet page
+
+----------------------------------------------------------------------------------------------
+--------------------------
+Yash jani & yash chitroda |
+--------------------------
+FAQ
+Tips
+Checkup
+
+----------------------------------------------------------------------------------------------
+
+
+
+
+
